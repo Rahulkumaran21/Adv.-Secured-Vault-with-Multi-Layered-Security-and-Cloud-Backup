@@ -1,0 +1,2 @@
+# Adv.-Secured-Vault-with-Multi-Layered-Security-and-Cloud-Backup
+Adv. Secured Vault with Multi-Layered Security and Cloud Backup is a defense-in-depth based secure storage sys. that integrates multi-factor authentication, AES encryption, RSA-based key mgmt., integrity verification, access control, audit logging, and encrypted cloud backup to ensure confidentiality, integrity, and availability of sensitive data.
