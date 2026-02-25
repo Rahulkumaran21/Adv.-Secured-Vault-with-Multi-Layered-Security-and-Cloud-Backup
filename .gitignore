@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+.DS_Store
+# Secrets
+secure-file-vault/backend/service_account.json
+.env
+.env.local
+.vscode/
+.next/
