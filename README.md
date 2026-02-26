@@ -1,23 +1,23 @@
-# 🔐 Advanced Secured Vault with Multi-Layered Security and Cloud Backup
+# Advanced Secured Vault with Multi-Layered Security and Cloud Backup
 
 Advanced Secured Vault with Multi-Layered Security and Cloud Backup is a defense-in-depth based secure storage system that integrates multi-factor authentication, AES client-side encryption, RSA/ECC-based secure key management, integrity verification, role-based access control, audit logging, and encrypted cloud backup to ensure confidentiality, integrity, and availability of sensitive data.
 
 ---
 
-## 🛡 Key Features
+## Key Features
 
-- 🔑 **Multi-Factor Authentication (MFA)**
-- 👤 **Role-Based Access Control (RBAC)**
-- 🔒 **AES Client-Side File Encryption**
-- 🔐 **RSA/ECC Secure Key Management**
-- 🧾 **SHA-256 File Integrity Verification**
-- ☁️ **End-to-End Encrypted Cloud Backup**
-- 📊 **Audit Logging & Monitoring**
-- 🔄 **Secure Disaster Recovery**
+-  **Multi-Factor Authentication (MFA)**
+-  **Role-Based Access Control (RBAC)**
+-  **AES Client-Side File Encryption**
+-  **RSA/ECC Secure Key Management**
+-  **SHA-256 File Integrity Verification**
+-  **End-to-End Encrypted Cloud Backup**
+-  **Audit Logging & Monitoring**
+-  **Secure Disaster Recovery**
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 The system follows a **client-side encryption model**, meaning:
 
@@ -30,7 +30,7 @@ This layered architecture ensures that even if one security layer is compromised
 
 ---
 
-## 🚨 Security Highlights
+##  Security Highlights
 
 - Isolated file-level encryption
 - Tamper detection using hash verification
@@ -41,7 +41,7 @@ This layered architecture ensures that even if one security layer is compromised
 
 ---
 
-## 📊 Performance
+##  Performance
 
 - AES encryption shows efficient, scalable performance
 - MFA introduces minimal authentication delay
@@ -50,7 +50,7 @@ This layered architecture ensures that even if one security layer is compromised
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To design a secure, scalable, and reliable file vault system that protects sensitive data using a comprehensive multi-layered security framework instead of relying on single-point protection.
 
