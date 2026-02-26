@@ -2,7 +2,7 @@
 
 Advanced Secured Vault with Multi-Layered Security and Cloud Backup is a defense-in-depth based secure storage system that integrates multi-factor authentication, AES client-side encryption, RSA/ECC-based secure key management, integrity verification, role-based access control, audit logging, and encrypted cloud backup to ensure confidentiality, integrity, and availability of sensitive data.
 
----
+
 
 ## Key Features
 
@@ -15,7 +15,7 @@ Advanced Secured Vault with Multi-Layered Security and Cloud Backup is a defense
 -  **Audit Logging & Monitoring**
 -  **Secure Disaster Recovery**
 
----
+
 
 ##  Architecture
 
@@ -28,7 +28,7 @@ The system follows a **client-side encryption model**, meaning:
 
 This layered architecture ensures that even if one security layer is compromised, the entire system remains protected.
 
----
+
 
 ##  Security Highlights
 
@@ -39,7 +39,7 @@ This layered architecture ensures that even if one security layer is compromised
 - Encrypted cloud synchronization
 - Append-only audit logs for accountability
 
----
+
 
 ##  Performance
 
@@ -48,10 +48,8 @@ This layered architecture ensures that even if one security layer is compromised
 - Cloud backup has low network overhead
 - Strong balance between security and usability
 
----
+
 
 ##  Objective
 
 To design a secure, scalable, and reliable file vault system that protects sensitive data using a comprehensive multi-layered security framework instead of relying on single-point protection.
-
----
